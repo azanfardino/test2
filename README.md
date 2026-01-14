@@ -13,10 +13,10 @@ Questo progetto è un esempio di gestione utenti in Java.
 
 Esempio:
 
-//java
+```java
 UserManager manager = new UserManager();
 manager.createUser("Mario");
-
+```
 
 ## Licenza
 
