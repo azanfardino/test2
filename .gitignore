@@ -1,0 +1,11 @@
+#questo file indica a git di non committare alcuni tipi di file 
+
+# File compilati Java
+*.class
+/bin/
+/target/
+
+# File di Configurazioni Eclipse
+*.project
+*.classpath
+/.settings/

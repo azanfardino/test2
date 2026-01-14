@@ -22,3 +22,5 @@ manager.createUser("Mario");
 
 Questo progetto è sotto licenza MIT.
 
+Copyright (c) 2026 Alessandro Zanfardino
+
